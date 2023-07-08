@@ -13,8 +13,6 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
     shopify,
     carrent,
     jobit,
@@ -24,6 +22,8 @@ import {
     aws,
     automation,
     fidelity,
+    hsbc,
+    deloitte,
   } from "../assets";
   
   export const navLinks = [
@@ -130,11 +130,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Senior UI developer",
+      company_name: "HSBC",
+      icon: hsbc,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "November 2016 - May 2017",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,11 +143,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Full Stack Developer",
+      company_name: "Deloitte",
+      icon: deloitte,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Feb 2015 - Oct 2016",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
