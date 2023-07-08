@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    mern,
+    aws,
+    automation,
   } from "../assets";
   
   export const navLinks = [
@@ -46,16 +49,16 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Mean Stack Developer",
+      icon: mern,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Cloud Developer",
+      icon: aws,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Automation expert",
+      icon: automation,
     },
   ];
   
