@@ -157,10 +157,10 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "Tata Consultancy Services",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Oct 2011 - Jan 2015",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
