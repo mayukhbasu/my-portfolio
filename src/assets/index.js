@@ -29,6 +29,7 @@ import hsbc from './company/hsbc.png'
 import tesla from "./company/tesla.png";
 import fidelity from "./company/fidelity.jpeg"
 import deloitte from './company/deloitte.png';
+import tcs from './company/tcs.png';
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -67,5 +68,6 @@ export {
   automation,
   fidelity,
   hsbc,
-  deloitte
+  deloitte,
+  tcs
 };

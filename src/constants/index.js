@@ -24,6 +24,7 @@ import {
     fidelity,
     hsbc,
     deloitte,
+    tcs
   } from "../assets";
   
   export const navLinks = [
@@ -123,9 +124,9 @@ import {
       iconBg: "#383E56",
       date: "June 2017 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Working as a lead frontend developer to develop and migrate existing wires(Money Transfer) and trade manager(trade execution and management) platform which are highly critical and the backbone of the prime services.",
+        "My responsibilities include implementing web applications using React with Typescript, redux, from concept to deployment, standardizing all output with new, responsive, mobile first strategy, assessing UI/UX requirement with feasibility and working with product teams to introduce new features.",
+        "Highly experienced with enterprise scale grade component to work with large data sets.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
@@ -136,10 +137,10 @@ import {
       iconBg: "#E6DEDD",
       date: "November 2016 - May 2017",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Front end developer for retail banking and wealth management platform, was responsible to migrate existing DOJO framework to React based framework.",
+        "Created custom React libraries for the banking application which was reused by different application team.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "The core banking platform had a different authentication mechanism, created a separate oauth 2 module which supports kerberos based authentication.",
       ],
     },
     {
@@ -149,23 +150,22 @@ import {
       iconBg: "#383E56",
       date: "Feb 2015 - Oct 2016",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Worked as a full stack engineer working in both frontend and backend components for a telecom client.",
+        "Created an automation suite that reduced the prepopulation of data in that public sector website by 75% which was given as the most innovative idea of the quarter.",
+        "Responsible for creating backend services using java/spring boot",
+        "Responsible to create Ci/CD pipeline and deploying into cloud foundry.",
       ],
     },
     {
       title: "Full stack Developer",
       company_name: "Tata Consultancy Services",
-      icon: meta,
+      icon: tcs,
       iconBg: "#E6DEDD",
       date: "Oct 2011 - Jan 2015",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Worked for Apple client as a full stack engineer, and their different internal applications which manages different customer suppprt program for Apple.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participated in 24/7 production support activity"
       ],
     },
   ];
